@@ -1,0 +1,45 @@
+# Compilados e objetos
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+
+# Executáveis
+main
+a.out
+*.exe
+
+# Arquivos de build
+*.out
+*.log
+
+# Diretórios comuns de build
+/build/
+/bin/
+/dist/
+
+# Arquivos gerados por depuração
+*.gch
+*.gcda
+*.gcno
+*.gcov
+
+# Arquivos temporários do editor
+*~
+*.swp
+*.swo
+
+# VSCode
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.cache
+`
